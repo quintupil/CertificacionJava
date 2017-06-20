@@ -1,4 +1,4 @@
-package cl.certificacion;
+package cl.certificacion.junit;
 
 /**
  * Hello world!
