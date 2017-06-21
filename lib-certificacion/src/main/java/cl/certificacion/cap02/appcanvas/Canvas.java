@@ -1,5 +1,5 @@
-package cl.certificacion.appcanvas;
-import cl.certificacion.graphicshape.Circle;
+package cl.certificacion.cap02.appcanvas;
+import cl.certificacion.cap02.graphicshape.Circle;
 
 class Canvas {
 	void getArea() {

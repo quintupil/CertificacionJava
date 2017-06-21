@@ -1,4 +1,4 @@
-package cl.certificacion.graphicshape;
+package cl.certificacion.cap02.graphicshape;
 
 public class Circle extends Shape {
 	private int radius; // private field

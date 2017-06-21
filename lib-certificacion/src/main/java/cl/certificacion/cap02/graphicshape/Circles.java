@@ -1,4 +1,4 @@
-package cl.certificacion.graphicshape;
+package cl.certificacion.cap02.graphicshape;
 
 class Circles {
 	void getArea() {
