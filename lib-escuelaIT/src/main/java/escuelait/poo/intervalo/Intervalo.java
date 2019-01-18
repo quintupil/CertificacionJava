@@ -1,5 +1,15 @@
 package escuelait.poo.intervalo;
 
+/**
+ * 
+ * Capitulo 3. Clases y Objetos 
+ * Vista privada de las clases.
+ * 
+ * Status Finalizado
+ * 
+ * @author usuario
+ *
+ */
 public class Intervalo {
 	
 	public Intervalo( double inferior, double superior ) {
