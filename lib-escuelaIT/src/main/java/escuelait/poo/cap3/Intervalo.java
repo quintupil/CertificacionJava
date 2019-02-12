@@ -1,4 +1,4 @@
-package escuelait.poo.intervalo;
+package escuelait.poo.cap3;
 
 /**
  * 
